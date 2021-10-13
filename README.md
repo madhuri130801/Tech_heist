@@ -17,7 +17,7 @@ Proposed Features:
 •	Integrate Switchable dark themes.<br>
 Our Innvation:<br>
 Tech Stack:<br>
-We will be making a website for blog on pc and it can even be accessed through Mobile too. We will be using the following languages to desing our website.<br>
+We will be making a website for blog on pc and it can even be accessed through Mobile. We will be using the following languages to desing our website.<br>
 •	HTML<br>
 •	CSS<br>
 •	JAVASCRIPT<br>
