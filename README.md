@@ -16,6 +16,9 @@ Proposed Features:
 •	Responsive UI Design.<br>
 •	Integrate Switchable dark themes.<br>
 Our Innvation:<br>
+•	Upload image <br>
+•	Documents<br>
+•	Download blog content<br>
 Tech Stack:<br>
 We will be making a website for blog on pc and it can even be accessed through Mobile. We will be using the following languages to desing our website.<br>
 •	HTML<br>
