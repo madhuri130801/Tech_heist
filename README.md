@@ -6,7 +6,7 @@ Team Members Name:<br>
 •	Savarapu Madhuri(https://github.com/madhuri130801)<br>
 •	Nandita Rani(https://github.com/neptula)<br>
 •	Nakul Bhagwan Gaikwad(https://github.com/nakul2020)<br>
-Proposed Features:
+Proposed Features:<br>
 •	User Registration with 3 “interests” tags.<br>
 •	Basic Feed Page. (This page should display 10 recent posts for the logged-in user with matching post tags as that of the user)<br>
 •	Reading page endpoint is loading shall store timestamp, user handle, user tags in the backend.<br>
