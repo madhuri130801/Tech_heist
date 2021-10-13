@@ -5,7 +5,7 @@ Team Name: Tech_heist<br>
 Team Members Name:<br>
 •	Savarapu Madhuri(https://github.com/madhuri130801)<br>
 •	Nandita Rani(https://github.com/neptula/webDev/commits?author=neptula)<br>
-•	Nakul Bhagwan Gaikwad<br>
+•	Nakul Bhagwan Gaikwad(https://github.com/nakul2020)<br>
 Proposed Features:
 •	User Registration with 3 “interests” tags.<br>
 •	Basic Feed Page. (This page should display 10 recent posts for the logged-in user with matching post tags as that of the user)<br>
@@ -16,6 +16,8 @@ Proposed Features:
 •	Responsive UI Design.<br>
 •	Integrate Switchable dark themes.<br>
 Our Innvation:<br>
+•	Signup/Login<br>
+•	Signout/Logout<br>
 •	Upload image <br>
 •	Documents<br>
 •	Download blog content<br>
