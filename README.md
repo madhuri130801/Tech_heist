@@ -5,7 +5,7 @@ Team Name: Tech_heist<br>
 Team Members Name:<br>
 •	Savarapu Madhuri(https://github.com/madhuri130801)<br>
 •	Nandita Rani<br>
-•	Nakul<br>
+•	Nakul Bhagwan Gaikwad<br>
 Proposed Features:
 •	User Registration with 3 “interests” tags.<br>
 •	Basic Feed Page. (This page should display 10 recent posts for the logged-in user with matching post tags as that of the user)<br>
