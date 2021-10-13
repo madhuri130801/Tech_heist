@@ -4,7 +4,7 @@
 Team Name: Tech_heist<br>
 Team Members Name:<br>
 •	Savarapu Madhuri(https://github.com/madhuri130801)<br>
-•	Nandita Rani(https://github.com/neptula/webDev/commits?author=neptula)<br>
+•	Nandita Rani(https://github.com/neptula)<br>
 •	Nakul Bhagwan Gaikwad(https://github.com/nakul2020)<br>
 Proposed Features:
 •	User Registration with 3 “interests” tags.<br>
