@@ -15,7 +15,7 @@ Proposed Features:<br>
 •	Comment section for each blog post. (Users can reply, mention others and can also report the comment if found offensive)<br>
 •	Responsive UI Design.<br>
 •	Integrate Switchable dark themes.<br>
-Our Innvation:<br>
+Our Innovation:<br>
 •	Signup/Login<br>
 •	Signout/Logout<br>
 •	Upload image <br>
